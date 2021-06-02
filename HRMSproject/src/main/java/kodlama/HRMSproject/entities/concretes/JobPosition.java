@@ -6,8 +6,11 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+import lombok.Data;
+
 @Entity
 @Table(name="job_positions")
+@Data
 public class JobPosition {
 	@Id
 	@GeneratedValue
@@ -26,16 +29,4 @@ public class JobPosition {
 		this.position_name = position_name;
 	}
 	
-	public int getId() {
-		return id;
-	}
-	public void setId(int id) {
-		this.id = id;
-	}
-	public String getPosition_name() {
-		return position_name;
-	}
-	public void setPosition_name(String position_name) {
-		this.position_name = position_name;
-	}
 }
