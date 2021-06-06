@@ -1,5 +1,8 @@
 # Java Human Resources Management System
 Java HRMS(Human Resources Management System - İnsan Kaynakları Yönetim Sistemi)
+![hrms123](https://user-images.githubusercontent.com/73845925/120932072-fdf9d900-c6fc-11eb-96bc-481cd7449886.jpg)
+![human-resource-management-system-hrms-500x500](https://user-images.githubusercontent.com/73845925/120932073-00f4c980-c6fd-11eb-993f-b6bffd3a461b.png)
+
 
 # Diagram with PostgreSQL
 ![database_diagram](https://user-images.githubusercontent.com/73845925/120923172-d3e0f080-c6d5-11eb-9e79-b6bf49f20eab.png)
