@@ -1,17 +1,13 @@
-# java6.0-7.0
+# Java Human Resources Management System
 Java HRMS(Human Resources Management System - İnsan Kaynakları Yönetim Sistemi)
 
 # Diagram with PostgreSQL
-![tablo](https://user-images.githubusercontent.com/73845925/117721160-2ff44a00-b1e8-11eb-889c-498d64292cd1.png)
+![database_diagram](https://user-images.githubusercontent.com/73845925/120923172-d3e0f080-c6d5-11eb-9e79-b6bf49f20eab.png)
+![11](https://user-images.githubusercontent.com/73845925/120923175-d80d0e00-c6d5-11eb-9a9a-67f9415a4956.png)
+![1-2](https://user-images.githubusercontent.com/73845925/120923177-d93e3b00-c6d5-11eb-835c-915b9b49a903.png)
 
-![tables](https://user-images.githubusercontent.com/73845925/117721172-3387d100-b1e8-11eb-952f-b86d1a1b2a58.png)
 
-![id name](https://user-images.githubusercontent.com/73845925/117721175-34b8fe00-b1e8-11eb-8a03-cbc640e8ebbf.png)
 
 # Swigger Desteğini sisteme ekleme
 ![swiggerdestek1](https://user-images.githubusercontent.com/73845925/120432974-5dfe2180-c383-11eb-82e3-c55b11030134.png)
 ![swiggerdestek2](https://user-images.githubusercontent.com/73845925/120432975-5e96b800-c383-11eb-9402-f72cebeb35b5.png)
-
-# 7th day 3rd homework
-![odev31](https://user-images.githubusercontent.com/73845925/120447505-58103c80-c393-11eb-95f8-cc4473f0c085.png)
-![odev32](https://user-images.githubusercontent.com/73845925/120447506-58103c80-c393-11eb-96a0-145d7891d70f.png)
