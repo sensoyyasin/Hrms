@@ -1,7 +1,7 @@
 # Java Human Resources Management System
 Java HRMS(Human Resources Management System - İnsan Kaynakları Yönetim Sistemi)
 ![hrms123](https://user-images.githubusercontent.com/73845925/120932072-fdf9d900-c6fc-11eb-96bc-481cd7449886.jpg)
-![human-resource-management-system-hrms-500x500](https://user-images.githubusercontent.com/73845925/120932073-00f4c980-c6fd-11eb-993f-b6bffd3a461b.png)
+
 
 
 # Diagram with PostgreSQL
@@ -14,3 +14,5 @@ Java HRMS(Human Resources Management System - İnsan Kaynakları Yönetim Sistem
 # Swigger Desteğini sisteme ekleme
 ![swiggerdestek1](https://user-images.githubusercontent.com/73845925/120432974-5dfe2180-c383-11eb-82e3-c55b11030134.png)
 ![swiggerdestek2](https://user-images.githubusercontent.com/73845925/120432975-5e96b800-c383-11eb-9402-f72cebeb35b5.png)
+
+![human-resource-management-system-hrms-500x500](https://user-images.githubusercontent.com/73845925/120932073-00f4c980-c6fd-11eb-993f-b6bffd3a461b.png)
