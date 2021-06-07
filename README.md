@@ -1,6 +1,14 @@
 # Java Human Resources Management System
+
 Java HRMS(Human Resources Management System - İnsan Kaynakları Yönetim Sistemi)
 ![hrms123](https://user-images.githubusercontent.com/73845925/120932072-fdf9d900-c6fc-11eb-96bc-481cd7449886.jpg)
+
+# Used Tools
+![image](https://user-images.githubusercontent.com/73845925/120987390-372a5b80-c786-11eb-8163-81fb26a7a3ce.png)
+![image](https://user-images.githubusercontent.com/73845925/120987401-3b567900-c786-11eb-9a6f-ebf023f4cc3e.png)
+![image](https://user-images.githubusercontent.com/73845925/120987411-3d203c80-c786-11eb-9183-47f867ea7c66.png)
+![image](https://user-images.githubusercontent.com/73845925/120987477-4a3d2b80-c786-11eb-901f-7eeb2471a419.png)
+
 
 
 
