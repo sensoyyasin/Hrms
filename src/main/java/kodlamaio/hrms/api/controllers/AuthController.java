@@ -13,6 +13,7 @@ import kodlamaio.hrms.entities.concretes.Employer;
 import kodlamaio.hrms.entities.concretes.Jobseeker;
 
 @RestController
+
 @RequestMapping("/api/auth")
 public class AuthController {
 
